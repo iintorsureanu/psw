@@ -1,1 +1,1 @@
-# psw
+# Seminarii Pachete Sofware - Python
